@@ -4,6 +4,6 @@ working on https://awread.vn
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanhtung060201&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thanhtung060201)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thanhtung060201&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=thanhtung060201&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
